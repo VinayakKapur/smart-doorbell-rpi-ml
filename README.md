@@ -42,7 +42,7 @@ MobileNet classifier (TFLite, faces.h5)
 | `classify.py` | TFLite inference wrapper |
 | `train.py` | Model training script (MobileNet fine-tuning) |
 | `sms.py` | ClickSend SMS dispatch |
-| `docs/report.pdf` | Full project report with accuracy benchmarks and design rationale |
+| [Project Report (PDF)](../../releases/latest) | Full project report with accuracy benchmarks and design rationale |
 
 ## Model Download
 
