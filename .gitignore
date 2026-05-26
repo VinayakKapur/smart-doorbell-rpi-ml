@@ -1,0 +1,20 @@
+# Large datasets - link to Kaggle/Roboflow instead
+Celebrity Faces Dataset/
+data/
+images.cv*/
+delivery man detection/train/
+delivery man detection/valid/
+delivery man detection/test/
+
+# Duplicate subfolder
+535/
+
+# Trained model weights (attach as GitHub Release asset instead)
+*.h5
+
+# Misc
+Pdf1.pdf
+*.DS_Store
+__pycache__/
+*.pyc
+*.pyo
